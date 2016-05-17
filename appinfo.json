@@ -1,0 +1,118 @@
+{
+    "appKeys": {
+        "KEY_CITY": 3,
+        "KEY_CONDITIONS": 0,
+        "KEY_DESC": 5,
+        "KEY_FORECASTC": 2,
+        "KEY_FORECASTT": 4,
+        "KEY_TEMPERATURE": 1
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "The Device",
+    "longName": "Square Minimal",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/storm.png",
+                "name": "11D",
+                "type": "png"
+            },
+            {
+                "file": "images/snow.png",
+                "name": "13D",
+                "type": "png"
+            },
+            {
+                "file": "images/rain.png",
+                "name": "09D",
+                "type": "png"
+            },
+            {
+                "file": "images/party_cloudy_n.png",
+                "name": "02N",
+                "type": "png"
+            },
+            {
+                "file": "images/party_cloudy.png",
+                "name": "02D",
+                "type": "png"
+            },
+            {
+                "file": "images/no_bluetooth_i.png",
+                "name": "IMAGE_NO_BT",
+                "type": "png"
+            },
+            {
+                "file": "images/haze.png",
+                "name": "50D",
+                "type": "png"
+            },
+            {
+                "file": "images/cloudy.png",
+                "name": "04D",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud.png",
+                "name": "03D",
+                "type": "png"
+            },
+            {
+                "file": "images/clear_n.png",
+                "name": "01N",
+                "type": "png"
+            },
+            {
+                "file": "images/clear.png",
+                "name": "01D",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth_i.png",
+                "name": "IMAGE_YES_BT",
+                "type": "png"
+            },
+            {
+                "file": "images/NA.png",
+                "name": "NA",
+                "type": "png"
+            },
+            {
+                "file": "fonts/pirulen rg.ttf",
+                "name": "FONT_PIR_39",
+                "type": "font"
+            },
+            {
+                "file": "fonts/pirulen rg.ttf",
+                "name": "FONT_PIR_LIGHT_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/VertigoPlusFLF-Bold.ttf",
+                "name": "FONT_VERT_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Changeling Light.ttf",
+                "name": "FONT_CUSTOM_LIGHT_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Changeling Light.ttf",
+                "name": "FONT_CUSTOM_LIGHT_20",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SquareMinimal",
+    "uuid": "2c22ccda-193d-4f26-a51b-254bef30c3e1",
+    "versionCode": 1,
+    "versionLabel": "1.00",
+    "watchapp": {
+        "watchface": true
+    }
+}
